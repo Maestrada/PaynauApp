@@ -1,0 +1,6 @@
+@PaynauApp_HostAddress = http://localhost:5000
+
+GET {{PaynauApp_HostAddress}}/Persona/
+Accept: application/json
+
+###
